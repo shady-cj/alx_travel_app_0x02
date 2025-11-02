@@ -1,0 +1,15 @@
+tignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+# Django
+db.sqlite3
+media/
+staticfiles/
+# Env
+.env
+# VSCode / IDE
+.vscode/
+.idea/
