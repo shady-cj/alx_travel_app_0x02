@@ -1,4 +1,4 @@
-tignore << 'EOF'
+cat > .gitignore << 'EOF'
 # Python
 __pycache__/
 *.py[cod]
