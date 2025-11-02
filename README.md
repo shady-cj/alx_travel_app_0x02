@@ -18,4 +18,4 @@ This project implements a travel booking platform similar to Airbnb, with the fo
 - **Backend**: Django 4.2.7 + Django REST Framework
 - **Database**: MySQL
 - **API Documentation**: drf-spectacular (OpenAPI 3.0)
-- **Task Queue**: Celery with RabbitM
+- **Task Queue**: Celery with RabbitMq
